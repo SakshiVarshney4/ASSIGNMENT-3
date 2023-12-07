@@ -13,7 +13,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
             User u1= new User();
-            u1.setName("Ritik Kaushik");
+            u1.setName("Sakshi");
             Console.WriteLine(u1.getName());
             Console.ReadLine();
         }
@@ -46,7 +46,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("saksh");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -110,7 +110,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Sakshi");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -201,7 +201,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLogin("Ritik");
+            l1.setNameLogin("Sakshi");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -241,7 +241,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            User l1 = new User();
-            l1.setName("Ritik");
+            l1.setName("Sakshi");
             Console.WriteLine(l1.getName());
             Console.ReadLine();
         }
@@ -276,7 +276,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            User l1 = new User();
-            l1.setProfile("Ritik",20);
+            l1.setProfile("Sakshi",20);
             l1.getProfile();
             Console.ReadLine();
         }
@@ -317,7 +317,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
            Login l1 = new Login();
-            l1.setNameLoginDetails("Ritik", 21);
+            l1.setNameLoginDetails("Sakshi", 21);
             l1.getProfile();
             Console.ReadLine();
         }
@@ -396,7 +396,7 @@ namespace As3
     {
         static void Main(string[] args)
         {
-            Assignment3.Program program = new Assignment3.Program("Ritik");
+            Assignment3.Program program = new Assignment3.Program("Sakshi");
             program.getName();
             Console.ReadLine();
         }
